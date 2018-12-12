@@ -14,9 +14,9 @@ class Urlchecker {
 	
 
 	if (Myboolean == true) {
-	System.out.println("Url is correct");
+	System.out.println("Url is correct, you can go ahead with this");
 	} else {
-	System.out.println("Url is incorrect")
+	System.out.println("Url is incorrect, Please check your Url")
 		}
 		
 			}
